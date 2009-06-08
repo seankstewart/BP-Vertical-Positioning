@@ -1,0 +1,92 @@
+/* -------------------------------------------------------------- 
+  
+   screen.css for BP-Vertical-Positioning plugin
+   * Allows vertical positioning and div reordering using Blueprint CSS Framework
+   
+   Created by Sean Stewart [seankstewart.com]
+
+-------------------------------------------------------------- */
+
+/* ----- VERTICAL POSITION STYLES ------ */
+.lift-1 {margin-top:-1.5em;}
+.lift-2 {margin-top:-3em;}
+.lift-3 {margin-top:-4.5em;}
+.lift-4 {margin-top:-6em;}
+.lift-5 {margin-top:-7.5em;}
+.lift-6 {margin-top:-9em;}
+.lift-7 {margin-top:-10.5em;}
+.lift-8 {margin-top:-12em;}
+.lift-9 {margin-top:-13.5em;}
+.lift-10 {margin-top:-15em;}
+.lift-11 {margin-top:-16.5em;}
+.lift-12 {margin-top:-18em;}
+.lift-13 {margin-top:-19.5em;}
+.lift-14 {margin-top:-21em;}
+.lift-15 {margin-top:-22.5em;}
+.lift-16 {margin-top:-24em;}
+.lift-17 {margin-top:-25.5em;}
+.lift-18 {margin-top:-27em;}
+.lift-19 {margin-top:-28.5em;}
+.lift-20 {margin-top:-30em;}
+.lift-21 {margin-top:-31.5em;}
+.lift-22 {margin-top:-33em;}
+.lift-23 {margin-top:-34.5em;}
+.lift-24 {margin-top:-36em;}
+
+.drop-1 {margin-top:1.5em;}
+.drop-2 {margin-top:3em;}
+.drop-3 {margin-top:4.5em;}
+.drop-4 {margin-top:6em;}
+.drop-5 {margin-top:7.5em;}
+.drop-6 {margin-top:9em;}
+.drop-7 {margin-top:10.5em;}
+.drop-8 {margin-top:12em;}
+.drop-9 {margin-top:13.5em;}
+.drop-10 {margin-top:15em;}
+.drop-11 {margin-top:16.5em;}
+.drop-12 {margin-top:18em;}
+.drop-13 {margin-top:19.5em;}
+.drop-14 {margin-top:21em;}
+.drop-15 {margin-top:22.5em;}
+.drop-16 {margin-top:24em;}
+.drop-17 {margin-top:25.5em;}
+.drop-18 {margin-top:27em;}
+.drop-19 {margin-top:28.5em;}
+.drop-20 {margin-top:30em;}
+.drop-21 {margin-top:31.5em;}
+.drop-22 {margin-top:33em;}
+.drop-23 {margin-top:34.5em;}
+.drop-24 {margin-top:36em;}
+
+
+
+/* ----- DIV REORDER STYLES ------ */
+.container {position:relative;}
+
+.ap {position:absolute;top:0;left:0;clear:both;}
+.move {height:21em;overflow:hidden;margin-right:0;}
+
+.ap_down-1 {padding-top:21em;}
+.ap_down-2 {padding-top:42em;}
+.ap_down-3 {padding-top:63em;}
+.ap_down-4 {padding-top:84em;}
+.ap_down-5 {padding-top:105em;}
+.ap_down-6 {padding-top:126em;}
+.ap_down-7 {padding-top:147em;}
+.ap_down-8 {padding-top:168em;}
+.ap_down-9 {padding-top:189em;}
+.ap_down-10 {padding-top:210em;}
+.ap_down-11 {padding-top:231em;}
+.ap_down-12 {padding-top:252em;}
+.ap_down-13 {padding-top:273em;}
+.ap_down-14 {padding-top:294em;}
+.ap_down-15 {padding-top:315em;}
+.ap_down-16 {padding-top:336em;}
+.ap_down-17 {padding-top:357em;}
+.ap_down-18 {padding-top:378em;}
+.ap_down-19 {padding-top:399em;}
+.ap_down-20 {padding-top:420em;}
+.ap_down-21 {padding-top:441em;}
+.ap_down-22 {padding-top:462em;}
+.ap_down-23 {padding-top:483em;}
+.ap_down-24 {padding-top:504em;}
